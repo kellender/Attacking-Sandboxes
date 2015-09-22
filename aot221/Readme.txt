@@ -1,0 +1,1 @@
+The sandbox is written in Python. It also takes in a username and a password, which is more or less unnecessary, more over it was a waste of time installing a module that was most likely not needed other than to hash a password, and lastly I had to restart my terminal in order to login. No bugs or exploits were found.

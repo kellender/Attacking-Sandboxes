@@ -1,0 +1,1 @@
+The sandbox is written in Python. It takes in specified file by the sandbox and filters the input programs (written in a subset of Python) for disallowed strings. This sandbox also specifies various resource limitations on what the user can do. No bugs or exploits were found.
